@@ -1,7 +1,7 @@
 ## Folder Structure
 
 ```
-QA%20Suite
+selenium_javaFramework
 |   excels
 |   logoAndSvgs
 |   logs
